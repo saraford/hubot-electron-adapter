@@ -1,0 +1,18 @@
+{
+  "name":        "hubot-sample",
+  "version":     "0.0.1",
+  "description": "electron adapter for hubot",
+  "licenses":     [{
+    "type":       "MIT",
+    "url":        "http://opensource.org/licenses/mit-license.php/"
+  }],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/shaundubuque/hubot-aim"
+  },
+  "devDependencies": {
+    "coffee-script": "1.1.3",
+    "hubot": ">2.11"
+  },
+  "main": "./src/sample"
+}
