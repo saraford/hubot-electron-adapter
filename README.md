@@ -1,2 +1,3 @@
-# hubot-electron-adapter
-An adapter to talk to hubot within an electron app
+:warning: This repo is now deprecated. I renamed the adapter and updated the package.json at
+https://github.com/saraford/hubot-electron
+
